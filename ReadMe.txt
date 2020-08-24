@@ -2,3 +2,4 @@
 2.开始运行服务端程序BugHunter，通过指令们 spring-boot:run开始执行
 3.Bughunter中的测试数据来源于SQL中的数据
 4.CloudReader-master为装有插件的源码
+5.CloudReader-master源码地址https://github.com/youlookwhat/CloudReader.git
