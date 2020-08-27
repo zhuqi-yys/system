@@ -1,5 +1,5 @@
-1. 首先安装APP 云阅，确保安装的APP具有引导插件
-2.开始运行服务端程序BugHunter，通过指令们 spring-boot:run开始执行
-3.Bughunter中的测试数据来源于SQL中的数据
-4.CloudReader-master为装有插件的源码
-5.CloudReader-master源码地址https://github.com/youlookwhat/CloudReader.git
+1. First install APP Cloud Read, make sure the installed APP has a boot plug-in
+2. Start running the server program BugHunter, and start execution through the command spring-boot:run
+3. The test data in Bughunter comes from the data in SQL
+4. CloudReader-master is the source code with plugin
+5.CloudReader-master source code address https://github.com/youlookwhat/CloudReader.git
